@@ -1,0 +1,1 @@
+# Stock_Price_Predictor_BIST100_BIMAS
